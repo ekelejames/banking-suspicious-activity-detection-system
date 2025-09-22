@@ -93,6 +93,8 @@ Wait for all services to be fully initialized (usually 2-3 minutes for first sta
 3. Click "Update Profile"
 4. The system will detect this as suspicious activity (email change)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1114" height="911" alt="Screenshot 2025-09-22 105634" src="https://github.com/user-attachments/assets/3a822198-858c-44db-968c-ef983c079e82" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
