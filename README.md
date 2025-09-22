@@ -90,7 +90,11 @@ Wait for all services to be fully initialized (usually 2-3 minutes for first sta
 
 <img width="1222" height="510" alt="Screenshot 2025-09-22 105515" src="https://github.com/user-attachments/assets/6b9d9aa0-1ff3-4f03-ae29-3e609d03959c" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1114" height="911" alt="Screenshot 2025-09-22 105634" src="https://github.com/user-attachments/assets/3a822198-858c-44db-968c-ef983c079e82" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1717" height="895" alt="Screenshot 2025-09-22 105937" src="https://github.com/user-attachments/assets/84e2e62b-9d05-4bcb-bbca-c21fc647b5e4" />
 
