@@ -76,6 +76,7 @@ Wait for all services to be fully initialized (usually 2-3 minutes for first sta
    - Select an account type
 3. Click "Create Profile"
 4. Note the generated Customer ID for reference
+
 <img width="1450" height="910" alt="Screenshot 2025-09-22 104511" src="https://github.com/user-attachments/assets/7831bd3a-11a5-4218-9e1d-e1a652dad827" /> <img width="1707" height="899" alt="Screenshot 2025-09-22 104731" src="https://github.com/user-attachments/assets/42202b91-f735-4d8c-b6d7-6fc188d09cee" />
 
 
@@ -87,6 +88,13 @@ Wait for all services to be fully initialized (usually 2-3 minutes for first sta
 3. Click "Update Profile"
 4. The system will detect this as suspicious activity (email change)
 
+<img width="1222" height="510" alt="Screenshot 2025-09-22 105515" src="https://github.com/user-attachments/assets/6b9d9aa0-1ff3-4f03-ae29-3e609d03959c" />
+
+<img width="1114" height="911" alt="Screenshot 2025-09-22 105634" src="https://github.com/user-attachments/assets/3a822198-858c-44db-968c-ef983c079e82" />
+
+<img width="1717" height="895" alt="Screenshot 2025-09-22 105937" src="https://github.com/user-attachments/assets/84e2e62b-9d05-4bcb-bbca-c21fc647b5e4" />
+
+
 ### Step 6: Verify Telegram Notification
 
 Within seconds of updating the profile:
@@ -97,6 +105,9 @@ Within seconds of updating the profile:
    - Details of what was changed (old email → new email)
    - Customer ID for reference
    - Timestamp of the change
+
+<img width="709" height="466" alt="Screenshot 2025-09-22 105404" src="https://github.com/user-attachments/assets/06d9fe91-52da-4044-a420-ea2f5859f92b" />
+
 
 **Sample Telegram Message:**
 ```
