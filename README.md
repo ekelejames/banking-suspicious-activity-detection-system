@@ -76,7 +76,8 @@ Wait for all services to be fully initialized (usually 2-3 minutes for first sta
    - Select an account type
 3. Click "Create Profile"
 4. Note the generated Customer ID for reference
-<img width="1450" height="910" alt="Screenshot 2025-09-22 104511" src="https://github.com/user-attachments/assets/7831bd3a-11a5-4218-9e1d-e1a652dad827" />
+<img width="1450" height="910" alt="Screenshot 2025-09-22 104511" src="https://github.com/user-attachments/assets/7831bd3a-11a5-4218-9e1d-e1a652dad827" /> <img width="1707" height="899" alt="Screenshot 2025-09-22 104731" src="https://github.com/user-attachments/assets/42202b91-f735-4d8c-b6d7-6fc188d09cee" />
+
 
 
 ### Step 5: Trigger Suspicious Activity Detection
