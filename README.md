@@ -1,7 +1,8 @@
 # 🏦 James Bank PLC - Real-time Suspicious Activity Detection System
 
 A comprehensive banking application that demonstrates real-time fraud detection and customer notification using Apache Kafka, Flask, and Telegram integration. The system monitors customer profile changes and instantly alerts customers of suspicious activities via Telegram notifications.
-This is an End-to-end automation system made into docker containers connecting to each other upon startup, all you have to do is trigger a suspicious activity !!!
+
+**This is an End-to-end automation system made into docker containers connecting to each other upon startup, all you have to do is trigger a suspicious activity !!!**
 
 ## 🎯 Project Overview
 
