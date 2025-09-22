@@ -84,13 +84,14 @@ Wait for all services to be fully initialized (usually 2-3 minutes for first sta
 ### Step 5: Trigger Suspicious Activity Detection
 
 1. Click on the "View/Edit Profile" link for your created customer
-2. **Change the email address** to a different email
-3. Click "Update Profile"
-4. The system will detect this as suspicious activity (email change)
 
 <img width="1222" height="510" alt="Screenshot 2025-09-22 105515" src="https://github.com/user-attachments/assets/6b9d9aa0-1ff3-4f03-ae29-3e609d03959c" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. **Change the email address** to a different email
+3. Click "Update Profile"
+4. The system will detect this as suspicious activity (email change)
 
 <img width="1114" height="911" alt="Screenshot 2025-09-22 105634" src="https://github.com/user-attachments/assets/3a822198-858c-44db-968c-ef983c079e82" />
 
